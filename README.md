@@ -8,7 +8,7 @@ I've been coding ever since i was a child but after a carrer switch from telecom
 
 *   🌍  I'm based in Strasbourg, france
 *   ✉️  You can contact me at [mohamedazizakkari2@gmail.com](mailto:mohamedazizakkari2@gmail.com)
-*   🚀  I'm currently working on [A music streaming platform called SoundSage](http://https://github.com/MAAkkari/SoundSage)
+*   🚀  I'm currently working on [A music streaming platform called SoundSage](https://github.com/MAAkkari/SoundSage)
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
   <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.png" width="36" height="39" alt="Symfony" /></a>
