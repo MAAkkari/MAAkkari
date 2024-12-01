@@ -1,10 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed-Aziz Akkari
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aziz
 ===========================================================================================================================================
 
-Fullstack web developpeur
+Fullstack developpeur
 -------------------------
-
-I've been coding ever since i was a child but after a carrer switch from telecommunications, I decided to make it my profession and acquired a bac+2 diploma in web developpement !
 
 *   🌍  I'm based in Strasbourg, france
 *   ✉️  You can contact me at [mohamedazizakkari2@gmail.com](mailto:mohamedazizakkari2@gmail.com)
